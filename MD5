@@ -1,0 +1,14 @@
+496a8b7e5a110359167edf5218015525 *DESCRIPTION
+d7241191f5db58ab186df5e509e5ba96 *LICENSE
+88ae6eec5d7e62136ee2dce303c74e14 *NAMESPACE
+9a6205ab21dcda977d068a724209fec9 *R/gif_Addin.R
+31afe0c5aad0d2c0ba64a41aa757ab91 *R/gif_search.R
+044142b61452b96cea4639c974ccb0c8 *R/giphyr-package.R
+7c102b77338279e2ad806dc1da543337 *README.md
+0c64e71c186d8a75bd4876f81e2ef99f *inst/gadgets/gif_Addin/app.css
+8bb9c79581f889da5ef93fcbecf1d876 *inst/gadgets/gif_Addin/app.js
+e4fe68503ab5d004deb31e43636a0a7c *inst/gadgets/gif_Addin/giphy.png
+7a77bc2d3dae14e7de0783fedb12d2f1 *inst/rstudio/addins.dcf
+0fbd317945eadf47375584dcda1fe02b *man/gif_Addin.Rd
+bebde66f6b8d2e2cb9a23c3603e01902 *man/gif_search.Rd
+3c90835fc4853aec87915e579e3449ba *man/giphyr-package.Rd

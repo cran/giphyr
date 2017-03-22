@@ -1,0 +1,4 @@
+Name: Add GIFs
+Description: Search GIFs through Giphy API and use them in Rmarkdown documents
+Binding: gif_Addin
+Interactive: true
