@@ -1,9 +1,9 @@
-4a8039ad0545c8e4a1ceddb7240e30e5 *DESCRIPTION
+43f1a76f3ede67bdf7f567a2adfdd407 *DESCRIPTION
 d7241191f5db58ab186df5e509e5ba96 *LICENSE
-11118f583c1a2546daac78af4c60e558 *NAMESPACE
-caaaea6bf36f98df2bf61c5f7f989ca4 *R/gif_Addin.R
+f923efbad0a407c704408fdfba4157aa *NAMESPACE
+74e40e2a24693f83c795ba6e04d45f8d *R/gif_Addin.R
 31afe0c5aad0d2c0ba64a41aa757ab91 *R/gif_search.R
-90ea10d3116c80151a31f96a7921a058 *R/giphyr-package.R
+61725aeb2542782fb4efb9e2228aea2a *R/giphyr-package.R
 c7b076051a2263877adc5f182a9008dc *README.md
 fbea28a4cfb40338ee2555bab5892958 *inst/NEWS
 0c64e71c186d8a75bd4876f81e2ef99f *inst/gadgets/gif_Addin/app.css
