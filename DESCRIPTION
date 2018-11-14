@@ -1,7 +1,9 @@
 Package: giphyr
 Title: R Interface to the Giphy API
-Version: 0.1.2
-Authors@R: person("Hao", "Zhu", email = "haozhu233@gmail.com", role = c("aut", "cre"))
+Version: 0.1.3
+Authors@R: person("Hao", "Zhu", email = "haozhu233@gmail.com", 
+    role = c("aut", "cre"),
+    comment = c(ORCID = '0000-0002-3386-6076'))
 Description: An interface to the 'API' of 'Giphy', a popular index-based search 
     engine for 'GIFs' and animated stickers (see <http://giphy.com/faq> and 
     <https://github.com/Giphy/GiphyAPI> for more information about 'Giphy' and 
@@ -15,10 +17,10 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/haozhu233/giphyr
 BugReports: https://github.com/haozhu233/giphyr/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
 NeedsCompilation: no
-Packaged: 2017-10-21 04:17:32 UTC; haozhu
-Author: Hao Zhu [aut, cre]
+Packaged: 2018-11-14 22:06:09 UTC; haozhu
+Author: Hao Zhu [aut, cre] (<https://orcid.org/0000-0002-3386-6076>)
 Maintainer: Hao Zhu <haozhu233@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-10-21 04:25:05 UTC
+Date/Publication: 2018-11-14 22:20:04 UTC
